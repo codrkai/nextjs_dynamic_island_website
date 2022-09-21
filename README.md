@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+With the new iPhone 14 Pro introducing the dynamic island bar, I thought it would be nice to create a website that also has a dynamic island at the top of the page. Take a look at the demo and add to it your ideas. Enjoy!
+
 ## Getting Started
 
 First, run the development server:
